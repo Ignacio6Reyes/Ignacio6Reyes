@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello from Ignacio
+
+I'm an astronomer and data scientist.
+
+You can learn more about me by going to my [personal website](https://ignacio6reyes.github.io)
+
+
 
 <!--
 **Ignacio6Reyes/Ignacio6Reyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
