@@ -1,6 +1,7 @@
 ## Hello from Ignacio
 
 I'm an astronomer and data scientist.
+I have extensive experince in Python, including in astronomical, statistical and data science tasks.
 
 You can learn more about me by going to my [personal website](https://ignacio6reyes.github.io)
 
